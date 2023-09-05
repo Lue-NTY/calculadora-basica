@@ -9,4 +9,5 @@
 let primerNumero = parseInt(prompt("Texto aqui: "))
 let segundoNumero = parseInt(prompt("Texto aqui: "))
 
-//tambien pueden editar las opciones mediante los if.```
+//tambien pueden editar las opciones mediante los if.
+```
