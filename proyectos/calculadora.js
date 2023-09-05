@@ -8,7 +8,7 @@ _____________________________________________________
 |____________________________________________________|`.green)
 //Calcladora basica
 let log = console.log;
-    let operador = parseInt(prompt("Inserte Una opcion 1- sumar .. suma  ||  2 - restar .. resta  ||  3 - multiplicar .. multi 4 -  dividir  || divide: "))
+    let operador = parseInt(prompt("Inserte Una opcion 1- sumar .. suma  ||  2 - restar .. resta  ||  3 - multiplicar .. multi  || 4 -  dividir  .. divide: "))
     let primerNumero = parseInt(prompt("Inserte un numero: ".cyan))
     let segundoNumero = parseInt(prompt("inserte el segundo numero: ".green))
 
