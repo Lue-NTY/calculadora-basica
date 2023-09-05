@@ -1,6 +1,7 @@
 <h1>Calculadora Basica</h1>
-<img src="![image](https://github.com/NotoyGod/calculadora-basica/assets/132713701/a633dcea-6e06-495a-bf39-297e476a8b43)
-"></img>
+<p align="center">
+<img src="https://imgur.com/P4U5EaC.jpg" alt="notoy" width="900"/>
+</p>
 ## Esta calculadora funciona por medio de una funcion que pide con la npm prompt una opcion y dos numeros.
 ```js
 //Puedes editar El texto de la variable primerNumero y segundoNombre
