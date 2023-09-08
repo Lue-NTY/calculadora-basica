@@ -11,3 +11,13 @@ let segundoNumero = parseInt(prompt("Texto aqui: "))
 
 //tambien pueden editar las opciones mediante los if.
 ```
+
+<h1 aling="center"> Para hacer correr el programa puedes usar los siguientes cmd ----></h1>
+
+```cmd
+npm i
+```
+<----------->
+```cmd
+node .
+```
